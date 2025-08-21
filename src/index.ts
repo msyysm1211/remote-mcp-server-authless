@@ -8,7 +8,7 @@ export class MyMCP extends McpAgent {
     name: "Authless Calculator",
     version: "1.0.0",
   });
-
+//
   async init() {
     // Simple addition tool
     this.server.tool(
